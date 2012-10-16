@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '4.3'
   s.source_files = 'AHAskExpert/*.{h,m}'
   s.requires_arc = true
-  s.dependency 'AHShared', '~> 0.0.9'
+  s.dependency 'AHShared', '~> 0.1.1'
 end
